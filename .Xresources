@@ -3,8 +3,8 @@
 !
 ! vim: set ft=xdefaults
 
-URxvt.font: xft:lucy tewii:size=10
-URxvt.boldFont: xft:lucy tewii:size=10
+URxvt.font: xft:lucy tewi:pixelsize=12
+URxvt.boldFont: xft:lucy tewi:pixelsize=12
 
 
 
